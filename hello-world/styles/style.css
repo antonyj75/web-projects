@@ -1,0 +1,28 @@
+html {
+  background-color: #9ACCFD;
+}
+
+h1 {
+  font-size: 60px;
+  color: #9ACCFD;
+  text-align: center;
+  text-shadow: 3px 3px 1px black;
+}
+
+body {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+}
